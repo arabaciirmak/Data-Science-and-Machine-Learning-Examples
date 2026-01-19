@@ -3,11 +3,17 @@ This repository contains hands-on examples and mini projects that I am developin
 The main goal of this repository is to strengthen my theoretical knowledge by applying it to practical problems using real or synthetic datasets.
 
 ## 📌 Topics Covered
-- Data Cleaning & Preprocessing  
+- Data Cleaning & Preprocessing   
 - Data Visualization  
-- Supervised Learning   
+- Supervised Learning  
+  - Linear Regression  
+  - Logistic Regression  
+  - Decision Trees  
+  - K-Nearest Neighbors(KNN)  
 - Unsupervised Learning  
+  - K-Means Clustering  
 - Model Evaluation & Performance Metrics  
+
 
 ## 🛠 Technologies & Tools
 - Python  
