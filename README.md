@@ -5,13 +5,8 @@ The main goal of this repository is to strengthen my theoretical knowledge by ap
 ## 📌 Topics Covered
 - Data Cleaning & Preprocessing  
 - Data Visualization  
-- Supervised Learning  
-  - Linear Regression  
-  - Logistic Regression  
-  - Decision Trees  
-  - K-Nearest Neighbors(KNN)  
+- Supervised Learning   
 - Unsupervised Learning  
-  - K-Means Clustering  
 - Model Evaluation & Performance Metrics  
 
 ## 🛠 Technologies & Tools
