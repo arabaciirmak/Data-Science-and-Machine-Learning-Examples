@@ -8,7 +8,8 @@ The main goal of this repository is to strengthen my theoretical knowledge by ap
 - Supervised Learning  
   - Linear Regression  
   - Logistic Regression  
-  - Decision Trees  
+  - Decision Trees
+  - Random Forest
   - K-Nearest Neighbors(KNN)  
 - Unsupervised Learning  
   - K-Means Clustering  
